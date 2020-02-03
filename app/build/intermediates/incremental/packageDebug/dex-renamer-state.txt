@@ -1,0 +1,4 @@
+#Mon Feb 03 21:03:53 IST 2020
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\WirelessComChat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\User\\AndroidStudioProjects\\WirelessComChat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
